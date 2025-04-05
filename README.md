@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyanuofficial
 - 👀 I’m interested in C,C++,JAVA, PYTHON
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
